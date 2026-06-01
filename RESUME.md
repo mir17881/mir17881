@@ -17,6 +17,8 @@
 
 ## 🎯 Summary
 
+**My superpower is turning ambiguity into shipped product.** Hand me a large, tangled problem no one knows how to solve — I break it into the right small pieces, sequence them, and ship, **usually within two quarters.**
+
 Principal Product Manager with **15 years** building and scaling products in fintech and heavily-regulated domains. I specialize in **0→1 product launches** and **two-sided marketplace/platform** work across many engineering teams — and I make new products *the company standard*.
 
 Launched **TurboTax Business** from zero to **~2x its quarterly target**, and won Intuit's top company-wide innovation award for a product that became the baseline for **~500,000 customers**. Operator background — ran a P&L and an 80-person service org before product — so I build with the whole business in mind, not just the roadmap.
@@ -27,7 +29,8 @@ Launched **TurboTax Business** from zero to **~2x its quarterly target**, and wo
 
 | | | |
 |---|---|---|
-| 🚀 0→1 Product Launch | 🔁 Two-Sided Marketplaces | 🧪 Experimentation & A/B Testing |
+| 🧩 Decomposing Ambiguity → Shippable Plans | 🚀 0→1 Product Launch | 🔁 Two-Sided Marketplaces |
+| 🧪 Experimentation & A/B Testing | ⏱️ Ship Under 2 Quarters | 🤖 AI-Native Product Workflows |
 | 🏗️ Platform Unification | 👥 Cross-Functional Leadership (10+ teams) | 📊 Data-Driven Decision Making |
 | ⚖️ Regulated / Compliance-Heavy Domains | 💰 P&L & Operations | 🎯 Product Strategy & Roadmapping |
 
@@ -58,7 +61,7 @@ Launched **TurboTax Business** from zero to **~2x its quarterly target**, and wo
 
 </td><td valign="top">
 
-- Launched **TurboTax Business** (0→1, corporate tax filing) — **exceeded quarterly target by ~2x**.
+- **Launched TurboTax Business** (0→1, corporate tax filing) — took a problem with no existing playbook, decomposed it into shippable increments, and **beat the quarterly target by ~2x**, on time.
 - Unified TurboTax Live Full Service: **cut tech duplication 60%**, reduced service time from **21 days → a few hours**, hit record customer recommendation score (PRS) of **84**.
 - 🏆 **Won the Scott Cook Innovation Award** for a project that became the **company baseline, impacting ~500K customers**.
 - Grew an experimentation culture — **2.5× more tax-season experiments** to find winning strategies faster.
