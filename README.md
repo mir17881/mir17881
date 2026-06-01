@@ -13,14 +13,14 @@ I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit**. I 
 🏗️ **Principal PM** `2022–` — TurboTax Business (0→1, **2x** quarterly target). Unified Live Full Service: **60%** less tech duplication, 21 days → hours, PRS 84. Won Scott Cook Innovation Award (~500K customers). Scaled experimentation **2.5x**.
 
 <p align="center">
-  <img src="assets/tt-business.png" alt="TurboTax Business" width="48%" />
-  <img src="assets/tt-fullservice-1.png" alt="TurboTax Live Full Service" width="48%" />
+  <img src="assets/tt-business.png" alt="TurboTax Business" width="250" />
 </p>
 
 🎯 **Senior PM, Full Service** `2020–22` — **50%** SLA improvement, **3x** PRS YoY. Built two-sided consumer-expert platform across **10+** scrum teams.
 
 <p align="center">
-  <img src="assets/tt-fullservice-2.png" alt="TurboTax Live Full Service platform" width="60%" />
+  <img src="assets/tt-fullservice-1.png" alt="TurboTax Live Full Service" width="250" />
+  <img src="assets/tt-fullservice-2.png" alt="TurboTax Live Full Service platform" width="250" />
 </p>
 
 🚀 **PM, TurboTax Live** `2019–20` — Migrated ~300 tax experts to central platform; **50%** time-savings.
@@ -41,10 +41,10 @@ Heritage card app reviving the 8-suit Mughal ganjifa deck — 96 hand-painted-st
 [ganjifa.tashkhela.com](https://ganjifa.tashkhela.com) · [Play Store](https://play.google.com/store/apps/details?id=com.ganjifa.app)
 
 <p align="center">
-  <img src="assets/home.png" alt="Home screen" width="23%" />
-  <img src="assets/gameplay.png" alt="Gameplay" width="23%" />
-  <img src="assets/court.png" alt="Mughal Court" width="23%" />
-  <img src="assets/collection.png" alt="Card Collection" width="23%" />
+  <img src="assets/home.png" alt="Home screen" width="120" />
+  <img src="assets/gameplay.png" alt="Gameplay" width="120" />
+  <img src="assets/court.png" alt="Mughal Court" width="120" />
+  <img src="assets/collection.png" alt="Card Collection" width="120" />
 </p>
 
 **🏛️ [Naqqash-Khanah](https://github.com/mir17881/naqqash-khanah)**
