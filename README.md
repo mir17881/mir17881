@@ -48,7 +48,8 @@ Standalone RAG corpus API for Indo-Islamic & South Asian art. **13K+** museum ob
 ### 📝 Writing
 
 - Read my product thinking at [github.com/mir17881/product-management](https://github.com/mir17881/product-management)
-- Connect on [LinkedIn](https://www.linkedin.com/in/mohammedimtiazur-rahman) for articles and updates
+- 📄 [The Kano Model — How a Concept Developed in the 80s Shaped Our Software Thinking](https://www.linkedin.com/pulse/kano-model-how-concept-developed-80s-shaped-our-software-rahman/)
+- 📄 [Better Call Claude](https://www.linkedin.com/pulse/better-call-claude-mohammed-rahman-vhhke/)
 
 ---
 
