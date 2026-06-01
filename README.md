@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit**. I build 0→1 products, unify platforms, and scale what works.
+I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit** with 15 years in fintech and heavily-regulated domains. I build **0→1 products**, scale **two-sided marketplaces**, and turn new products into the company standard.
 
 📍 Toronto, ON · 📧 mir178@protonmail.com · [LinkedIn](https://www.linkedin.com/in/mohammedimtiazur-rahman) · 📄 **[Full Résumé](RESUME.md)**
 
