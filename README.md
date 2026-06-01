@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Mo 👋
 
 I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit** with 15 years in fintech and heavily-regulated domains. I build **0→1 products**, scale **two-sided marketplaces**, and turn new products into the company standard.
 
