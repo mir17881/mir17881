@@ -56,5 +56,4 @@ Standalone RAG corpus API for Indo-Islamic & South Asian art. **13K+** museum ob
 
 - 🏆 Intuit Scott Cook Innovation Award winner
 - 🎴 Reviving 500-year-old card games with modern tech
-- 📚 M.A. Economics (UOttawa), B.A. Economics (U of Dhaka)
 - 🐧🐻‍❄️ Seen penguins and polar bears in their natural habitat
