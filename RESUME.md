@@ -40,7 +40,8 @@ Launched **TurboTax Business** from zero to **~2x its quarterly target**, and wo
 | **Analytics** | Amplitude · Google Analytics · Tableau · SQL (queries) |
 | **Product & Collaboration** | Jira · Smartsheet · Coda |
 | **Design** | Figma · Claude (design) |
-| **AI-Assisted Building** | Claude Code (VS Code) |
+| **AI-Assisted Building & Prototyping** | Claude Code (VS Code) · Gemini Canvas · OpenCode · Claude Cowork |
+| **Local LLMs & Models** | Ollama · LM Studio · Claude · Gemini · DeepSeek |
 
 ---
 

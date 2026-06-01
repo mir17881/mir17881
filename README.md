@@ -34,8 +34,18 @@ I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit** wit
 ![Smartsheet](https://img.shields.io/badge/Smartsheet-273B5C?style=flat-square&logo=smartsheet&logoColor=white)
 ![Coda](https://img.shields.io/badge/Coda-F46A54?style=flat-square&logo=coda&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 🤖 AI & LLMs
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Canvas-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-4A2C82?style=flat-square&logo=probot&logoColor=white)
 
 ---
 
