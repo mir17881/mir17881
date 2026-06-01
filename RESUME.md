@@ -17,7 +17,7 @@
 
 ## 🎯 Summary
 
-**My superpower is turning ambiguity into shipped product.** Hand me a large, tangled problem no one knows how to solve — I break it into the right small pieces, sequence them, and ship, **usually within two quarters.**
+**I turn ambiguous, high-stakes problems into shipped product — typically within two quarters.** I take on large, undefined problems with no existing playbook, break them into the right increments, sequence them, and deliver on time.
 
 Principal Product Manager with **15 years** building and scaling products in fintech and heavily-regulated domains. I specialize in **0→1 product launches** and **two-sided marketplace/platform** work across many engineering teams — and I make new products *the company standard*.
 
