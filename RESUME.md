@@ -17,7 +17,7 @@
 
 ## 🎯 Summary
 
-**I turn ambiguous, high-stakes problems into shipped product — typically within two quarters.** I take on large, undefined problems with no existing playbook, break them into the right increments, sequence them, and deliver on time.
+**I turn ambiguous, high-stakes problems into shipped product, fast.** I take on large, undefined problems with no existing playbook, break them into the smallest things worth shipping, and move — testing and iterating in market rather than planning in a vacuum.
 
 Principal Product Manager with **15 years** building and scaling products in fintech and heavily-regulated domains. I specialize in **0→1 product launches** and **two-sided marketplace/platform** work across many engineering teams — and I make new products *the company standard*.
 
@@ -30,7 +30,7 @@ Launched **TurboTax Business** from zero to **~2x its quarterly target**. As **L
 | | | |
 |---|---|---|
 | 🧩 Decomposing Ambiguity → Shippable Plans | 🚀 0→1 Product Launch | 🔁 Two-Sided Marketplaces |
-| 🧪 Experimentation (Prototype → A/B → Pilot) | ⏱️ Ship Under 2 Quarters | 🤖 AI-Native Product Workflows |
+| 🧪 Experimentation (Prototype → A/B → Pilot) | ⚡ Bias to Ship & Iterate | 🤖 AI-Native Product Workflows |
 | 🏗️ Platform Unification | 👥 Cross-Functional Leadership (10+ teams) | 📊 Data-Driven Decision Making |
 | ⚖️ Regulated / Compliance-Heavy Domains | 💰 P&L & Operations | 🎯 Product Strategy & Roadmapping |
 

@@ -2,7 +2,7 @@
 
 I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit** with 15 years in fintech and heavily-regulated domains. I build **0→1 products**, scale **two-sided marketplaces**, and turn new products into the company standard.
 
-I turn ambiguous, high-stakes problems into shipped product — taking on large, undefined challenges with no existing playbook, breaking them into the right increments, and delivering **typically within two quarters**.
+I turn ambiguous, high-stakes problems into shipped product — taking on large, undefined challenges with no existing playbook, breaking them into the smallest things worth shipping, and **moving fast**: testing and iterating in market rather than planning in a vacuum.
 
 📍 Toronto, ON · 📧 mir178@protonmail.com · [LinkedIn](https://www.linkedin.com/in/mohammedimtiazur-rahman) · 📄 **[Full Résumé](RESUME.md)**
 
