@@ -33,6 +33,17 @@ Launched **TurboTax Business** from zero to **~2x its quarterly target**, and wo
 
 ---
 
+## 🛠️ Tools & Stack
+
+| Category | Tools |
+|---|---|
+| **Analytics** | Amplitude · Google Analytics · Tableau · SQL (queries) |
+| **Product & Collaboration** | Jira · Smartsheet · Coda |
+| **Design** | Figma · Claude (design) |
+| **AI-Assisted Building** | Claude Code (VS Code) |
+
+---
+
 ## 💼 Experience
 
 ### Intuit

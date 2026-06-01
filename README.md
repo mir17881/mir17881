@@ -24,6 +24,21 @@ I'm **Mohammed Imtiazur Rahman** — Principal Product Manager at **Intuit** wit
 
 ---
 
+### 🧰 Toolkit
+
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat-square&logo=amplitude&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Smartsheet](https://img.shields.io/badge/Smartsheet-273B5C?style=flat-square&logo=smartsheet&logoColor=white)
+![Coda](https://img.shields.io/badge/Coda-F46A54?style=flat-square&logo=coda&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
 ### 🛠️ Side Projects
 
 **🎴 [Ganjifa — Game of Emperors](https://github.com/mir17881/ganjifa-59cb8f4d)**
