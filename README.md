@@ -42,7 +42,6 @@ I turn ambiguous, high-stakes problems into shipped product — taking on large,
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_Canvas-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opensourceinitiative&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
