@@ -72,6 +72,9 @@ Standalone RAG corpus API for Indo-Islamic & South Asian art. **13K+** museum ob
 
 `Hono` `TypeScript` `pgvector` `OpenAI` `Cloudflare R2` `Netlify`
 
+[![🤗 Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-mir178%2Fnk--mughal--rajput--art-yellow?style=flat-square)](https://huggingface.co/datasets/mir178/nk-mughal-rajput-art)
+Open dataset on Hugging Face — the CC0 art collection, published free for non-commercial use (CC BY-NC 4.0).
+
 ---
 
 ### 📝 Writing
