@@ -6,7 +6,6 @@ I turn ambiguous, high-stakes problems into shipped product — taking on large,
 
 📍 Toronto, ON · 📧 mir178@protonmail.com · [LinkedIn](https://www.linkedin.com/in/mohammedimtiazur-rahman) · 📄 **[Résumé (PDF)](Mohammed_Rahman_Resume.pdf)** · [view as page](RESUME.md)
 
-> 🟢 **Open to Principal / Lead Product Manager roles — fintech & SaaS.**
 
 ---
 
