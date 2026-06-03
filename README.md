@@ -13,7 +13,7 @@ I turn ambiguous, high-stakes problems into shipped product — taking on large,
 
 **Intuit** (2011 – Present)
 
-🏗️ **Principal PM** `2022–` — TurboTax Business (0→1, **2x** quarterly target). Unified Live Full Service: **60%** less tech duplication, 21 days → hours, PRS 84. **Lead Experiment PM for TurboTax Canada** — monthly tests across paper prototypes → smoke tests → A/B → built pilots. Won Scott Cook Innovation Award for a **50-customer test that became the baseline for ~500K**.
+🏗️ **Principal PM** `2022–` — TurboTax Business (0→1, **2x** quarterly target); shipped **Expert 365** (automates SMB bookkeeping document handling). Unified Live Full Service: **60%** less tech duplication, 21 days → hours, PRS 84. Led **mission teams against company OKRs** owning **unit, revenue & NPS**. **Lead Experiment PM for TurboTax Canada** — monthly tests across paper prototypes → smoke tests → A/B → built pilots. Won Scott Cook Innovation Award for a **50-customer test that became the baseline for ~500K**.
 
 🎯 **Senior PM, Full Service** `2020–22` — **50%** SLA improvement, **3x** PRS YoY. Built two-sided consumer-expert platform across **10+** scrum teams.
 

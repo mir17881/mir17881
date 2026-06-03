@@ -62,8 +62,10 @@ Launched **TurboTax Business** from zero to **~2x its quarterly target**. As **L
 </td><td valign="top">
 
 - **Launched TurboTax Business** (0→1, corporate tax filing) — took a problem with no existing playbook, decomposed it into shippable increments, and **beat the quarterly target by ~2x**, on time.
+- Alongside that 0→1 launch, shipped **Expert 365** — a product that **automates small-business document handling for bookkeeping**.
 - Unified TurboTax Live Full Service: **cut tech duplication 60%**, reduced service time from **21 days → a few hours**, hit record customer recommendation score (PRS) of **84**.
 - 🏆 **Won the Scott Cook Innovation Award** — validated the concept with a **50-customer test**, read the signal, and scaled it into the **company baseline for ~500K customers**.
+- Led **cross-functional mission teams against company OKRs** — owning **unit, revenue, and NPS KPIs** — and presented in **weekly senior-leadership reviews** to drive measurable KPI improvement.
 - **Lead Experiment PM for TurboTax Canada** — own a monthly experiment cadence across the full validation ladder (paper prototype → in-product smoke test → A/B test via experimentation portal → built pilot); grew tax-season experiments **2.5×** to find winning strategies faster.
 
 </td></tr>
