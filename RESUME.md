@@ -23,6 +23,8 @@ Principal Product Manager with **15 years** building and scaling products in fin
 
 Launched **TurboTax Business** from zero to **~2x its quarterly target**. As **Lead Experiment PM for TurboTax Canada**, I run experiments every month across the full validation ladder — paper prototypes, in-product smoke tests, structured A/B tests, and fully-built pilots. That discipline produced my Scott Cook Award–winning concept: it began as a **50-customer test and became the company baseline for ~500,000 customers**. Operator background — ran a P&L and an 80-person service org before product — so I build with the whole business in mind, not just the roadmap.
 
+I work **AI-native**: I use **Claude Code daily in my day-to-day product work** — prototyping, drafting PRDs and roadmaps, and creating and pushing Jira tickets and pull requests — not only in side projects.
+
 ---
 
 ## 🧭 Core Competencies
