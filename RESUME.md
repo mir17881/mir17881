@@ -64,6 +64,7 @@ I work **AI-native**: I use **Claude Code daily in my day-to-day product work** 
 </td><td valign="top">
 
 - **Launched TurboTax Business** (0→1, corporate tax filing) — took a problem with no existing playbook, decomposed it into shippable increments, and **beat the quarterly target by ~2x**, on time.
+- **Lead PM for the Uber and Etsy income-import integrations** — partnered directly with Uber's and Etsy's developer teams on the API connection that lets gig drivers and marketplace sellers import their earnings directly into TurboTax at filing time.
 - Alongside that 0→1 launch, shipped **Expert 365** — a product that **automates small-business document handling for bookkeeping**.
 - Unified TurboTax Live Full Service: **cut tech duplication 60%**, reduced service time from **21 days → a few hours**, hit record customer recommendation score (PRS) of **84**.
 - 🏆 **Won the Scott Cook Innovation Award** — validated the concept with a **50-customer test**, read the signal, and scaled it into the **company baseline for ~500K customers**.
