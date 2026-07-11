@@ -38,6 +38,9 @@ I work **AI-native** — I use **Claude Code daily** in my product work: prototy
 ![Coda](https://img.shields.io/badge/Coda-F46A54?style=flat-square&logo=coda&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🤖 AI & LLMs
 
@@ -48,12 +51,13 @@ I work **AI-native** — I use **Claude Code daily** in my product work: prototy
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-4A2C82?style=flat-square&logo=probot&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
 ### 🛠️ Side Projects
 
-**🎴 [Ganjifa — Game of Emperors](https://github.com/mir17881/ganjifa-59cb8f4d)**
+**🎴 [Ganjifa — Game of Emperors](https://ganjifa.tashkhela.com)**
 Heritage card app reviving the 8-suit Mughal ganjifa deck — 96 hand-painted-style cards, 6 games, Bengali/English bilingual, offline-first. Live on Play Store.
 
 `React` `TypeScript` `Capacitor` `Supabase` `Tailwind CSS`
@@ -67,7 +71,7 @@ Heritage card app reviving the 8-suit Mughal ganjifa deck — 96 hand-painted-st
   <img src="assets/collection.png" alt="Card Collection" width="120" />
 </p>
 
-**🏛️ [Naqqash-Khanah](https://github.com/mir17881/naqqash-khanah)**
+**🏛️ [Naqqash-Khanah](https://huggingface.co/datasets/mir178/nk-mughal-rajput-art)**
 Standalone RAG corpus API for Indo-Islamic & South Asian art. **13K+** museum objects, **23K+** text passages from 7 museums. Semantic search + annotation CRUD + image mirroring.
 
 `Hono` `TypeScript` `pgvector` `OpenAI` `Cloudflare R2` `Netlify`
