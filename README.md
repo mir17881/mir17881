@@ -6,7 +6,7 @@ I turn ambiguous, high-stakes problems into shipped product — taking on large,
 
 I work **AI-native** — I use **Claude Code daily** in my product work: prototyping, drafting PRDs & roadmaps, and creating and pushing Jira tickets and pull requests, not just in side projects.
 
-📍 Toronto, ON · 📧 mir178@protonmail.com · [LinkedIn](https://www.linkedin.com/in/mohammedimtiazur-rahman) · 📄 **[Résumé (PDF)](Mohammed_Rahman_Resume.pdf)** · [view as page](RESUME.md)
+📍 Toronto, ON · 📧 mir178@protonmail.com · [LinkedIn](https://www.linkedin.com/in/mohammed-imtiazur-rahman) · 📄 **[Résumé (PDF)](Mohammed_Rahman_Resume.pdf)** · [view as page](RESUME.md)
 
 
 ---
@@ -57,6 +57,13 @@ I work **AI-native** — I use **Claude Code daily** in my product work: prototy
 
 ### 🛠️ Side Projects
 
+**📸 [Peek — photo → quote for trades](https://withpeek.io)**
+AI quoting for trades that price by eye. A customer sends photos through a no-login portal, a vision model drafts an itemized, tiered quote, the shop owner reviews and approves, and it goes out by email. Car detailing is the first vertical; the engine is trade-agnostic with per-vertical front doors. Running in production behind an e2e → prod promotion pipeline with rollback.
+
+`React` `TypeScript` `Netlify Functions` `Supabase` `Claude API` `Tailwind CSS`
+
+[withpeek.io](https://withpeek.io)
+
 **🎴 [Ganjifa — Game of Emperors](https://ganjifa.tashkhela.com)**
 Heritage card app reviving the 8-suit Mughal ganjifa deck — 96 hand-painted-style cards, 6 games, Bengali/English bilingual, offline-first. Live on Play Store.
 
@@ -70,6 +77,13 @@ Heritage card app reviving the 8-suit Mughal ganjifa deck — 96 hand-painted-st
   <img src="assets/court.png" alt="Mughal Court" width="120" />
   <img src="assets/collection.png" alt="Card Collection" width="120" />
 </p>
+
+**🗄️ Parchwell — local-first document AI**
+Desktop app giving small businesses private AI over their own documents — ingest, semantic search, and grounded Q&A with citations, running a quantized LLM entirely on-device so nothing leaves the machine. Walking skeleton complete and in active build.
+
+`Rust` `Tauri 2` `React` `TypeScript` `llama.cpp` `SQLite` `sqlite-vec`
+
+*Private repo — in development.*
 
 **🏛️ [Naqqash-Khanah](https://huggingface.co/datasets/mir178/nk-mughal-rajput-art)**
 Standalone RAG corpus API for Indo-Islamic & South Asian art. **13K+** museum objects, **23K+** text passages from 7 museums. Semantic search + annotation CRUD + image mirroring.
