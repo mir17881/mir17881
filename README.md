@@ -13,9 +13,9 @@ I work **AI-native** — I use **Claude Code daily** in my product work: prototy
 
 ### 💼 What I Work On
 
-**Intuit** (2011 – Present)
+**Intuit** (2011 – 2026)
 
-🏗️ **Principal PM** `2022–` — TurboTax Business (0→1, **2x** quarterly target); **Lead PM for the Uber & Etsy income-import integrations** — partner-dev-team API work bringing gig/marketplace earnings straight into TurboTax. Shipped **Expert 365** (automates SMB bookkeeping document handling). Unified Live Full Service: **60%** less tech duplication, 21 days → hours, PRS 84. Led **mission teams against company OKRs** owning **unit, revenue & NPS**. **Lead Experiment PM for TurboTax Canada** — monthly tests across paper prototypes → smoke tests → A/B → built pilots. Won Scott Cook Innovation Award for a **50-customer test that became the baseline for ~500K**.
+🏗️ **Principal PM** `2022–26` — TurboTax Business (0→1, **2x** quarterly target); **Lead PM for the Uber & Etsy income-import integrations** — partner-dev-team API work bringing gig/marketplace earnings straight into TurboTax. Shipped **Expert 365** (automates SMB bookkeeping document handling). Unified Live Full Service: **60%** less tech duplication, 21 days → hours, PRS 84. Led **mission teams against company OKRs** owning **unit, revenue & NPS**. **Lead Experiment PM for TurboTax Canada** — monthly tests across paper prototypes → smoke tests → A/B → built pilots. Won Scott Cook Innovation Award for a **50-customer test that became the baseline for ~500K**.
 
 🎯 **Senior PM, Full Service** `2020–22` — **50%** SLA improvement, **3x** PRS YoY. Built two-sided consumer-expert platform across **10+** scrum teams.
 

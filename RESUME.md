@@ -53,13 +53,13 @@ I work **AI-native**: I use **Claude Code daily in my day-to-day product work** 
 ## 💼 Experience
 
 ### Intuit
-`2011 – Present · 15 yrs · Toronto / Mississauga, ON`
+`2011 – 2026 · 15 yrs · Toronto / Mississauga, ON`
 
 <table>
 <tr><td width="220" valign="top">
 
 **Principal Product Manager**
-`Aug 2022 – Present`
+`Aug 2022 – Aug 2026`
 
 </td><td valign="top">
 
